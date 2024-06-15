@@ -1,3 +1,13 @@
+# Hewwo ₍^ >ヮ<^₎ .ᐟ.ᐟ
+
+<div align=center>
+
+![Uzawa Reisa](reisa.webp)
+
+boy failure at day, meow meow at night :3
+
+</div>
+
 pretty good at
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sass)](https://skillicons.dev)
