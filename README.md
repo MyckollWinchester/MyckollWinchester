@@ -14,7 +14,7 @@ pretty good at
 
 comfortable with
 
-[![My Secondary Skills](https://skillicons.dev/icons?i=ts,bootstrap,flask,nodejs,prisma,mysql,mongo,postman,git,github,bots,selenium,latex,cpp)](https://skillicons.dev)
+[![My Secondary Skills](https://skillicons.dev/icons?i=ts,bootstrap,flask,nodejs,prisma,mysql,mongo,postman,git,bots,selenium,latex,cpp)](https://skillicons.dev)
 
 learning
 
