@@ -10,11 +10,11 @@ boy failure at day, meow meow at night :3
 
 pretty good at
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css,sass)](https://skillicons.dev)
 
 comfortable with
 
-[![My Secondary Skills](https://skillicons.dev/icons?i=ts,bootstrap,flask,nodejs,prisma,mysql,mongo,postman,git,bots,selenium,latex,cpp)](https://skillicons.dev)
+[![My Secondary Skills](https://skillicons.dev/icons?i=ts,bootstrap,flask,nodejs,prisma,mysql,mongo,postman,git,bots,selenium,latex)](https://skillicons.dev)
 
 learning
 
