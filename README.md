@@ -1,21 +1,18 @@
-# Hewwo ₍^ >ヮ<^₎ .ᐟ.ᐟ
-
-<div align=center>
-
-![Uzawa Reisa](reisa.webp)
-
-boy failure at day, meow meow at night :3
-
-</div>
-
-pretty good at
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css,sass)](https://skillicons.dev)
-
-comfortable with
-
-[![My Secondary Skills](https://skillicons.dev/icons?i=ts,bootstrap,flask,nodejs,prisma,mysql,mongo,postman,git,bots,selenium,latex)](https://skillicons.dev)
-
-learning
-
-[![Skills That I'm Learning](https://skillicons.dev/icons?i=bun,elysia,astro,react,rust,elixir,figma)](https://skillicons.dev)
+<table width="100%">
+  <tr>
+    <td width="42%" align="center" valign="top">
+      <img src="reisa.webp" alt="Uzawa Reisa" />
+    </td>
+    <td width="58%" valign="top">
+      <h2>Myckoll Winchester (^ >ヮ<^) .ᐟ.ᐟ</h2>
+      <h4><i>✦ comfortable with:</i></h4>
+      <a href="https://skillicons.dev"><img title="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,python,latex"></a>
+      <h4><i>✦ learning:</i></h4>
+      <a href="https://skillicons.dev"><img title="learning" src="https://skillicons.dev/icons?i=c,java,angular"></a>
+      <h4><i>✦ wishlist:</i></h4>
+      <a href="https://skillicons.dev"><img title="wishlist" src="https://skillicons.dev/icons?i=react,vue,astro,bun,elysia,rust,figma"></a>
+      <hr>
+      <p>i like to workout, play visual novels, and bake :3</p>
+    </td>
+  </tr>
+</table>
